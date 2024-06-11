@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Long Yuan (袁龙)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Long Yuan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://longyuancn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "longyuancn/longyuancn.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Long Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Nanjing Jiangsu"
-  employer         : "Nanjing University of Science and Technology"
+  bio              : "Professor at school of Computer Science and Engineering, Nanjing University of Science and Technology"
+  location         : 
+  employer         : 
   uri              : # URL
   email            : "longyuan@njust.edu.cn" 
 
