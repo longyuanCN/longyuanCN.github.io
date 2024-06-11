@@ -21,7 +21,7 @@ Selected Publications (* indicates corresponding author)
 
 * Shunyang Li, Kai Wang, Xuemin Lin, Wenjie Zhang, Yizhang He, **Long Yuan**, "Querying Historical Cohesive Subgraphs over Temporal Bipartite Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2578-2590, 2024.
 
-* Zi Chen, **Long Yuan**, Li Han, Zhengping Qian, "Higher-Order Truss Decomposition in Graphs ((Extended abstract))", *IEEE International Conference on Data Engineering* **(ICDE)**, 5695-5696, 2024.
+* Zi Chen, **Long Yuan**, Li Han, Zhengping Qian, "Higher-Order Truss Decomposition in Graphs (Extended abstract)", *IEEE International Conference on Data Engineering* **(ICDE)**, 5695-5696, 2024.
 
 * Junhua Zhang, **Long Yuan\***, Wentao Li, Lu Qin, Ying Zhang, Wenjie Zhang "Label-Constrained Shortest Path Query Processing on Road Networks", *The VLDB Journal* **(VLDBJ)**, 33:569–593, 2023.
 
@@ -76,6 +76,12 @@ Selected Publications (* indicates corresponding author)
 
 Teaching
 ==
+
+- Introduction to Computer Science @ NJUST 2023s2, 2024s2
+- Advanced Database System @ NJUST 2019s2, 2020s2, 2021s2, 2022s2, 2023s2, 2024s2
+- Data Mining @ NJUST 2022s2
+- Teaching Assistant of COMP3311 Database Systems @ UNSW 2014s1, 2015s1, 2016s1.
+- Teaching Assistant of COMP9311 Database Systems @ UNSW 2014s1, 2015s2, 2016s1.
 
 
 
