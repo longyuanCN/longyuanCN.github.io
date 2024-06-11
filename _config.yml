@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Long Yuan"
+title                    : "Long Yuan (袁龙)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
