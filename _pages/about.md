@@ -51,11 +51,11 @@ Selected Publications (* indicates corresponding author)
 
 * Dian Ouyang, **Long Yuan\***, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin, "Efficient Shortest Path Index Maintenance on Dynamic Road Networks with Theoretical Guarantees", *International Conference on Very Large Data Bases* **(VLDB)**, 13(5): 602-615, 2020.
 
-* Boge Liu, **Long Yuan\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Jingren Zhou, "Efficient $(\alpha, \beta)$-Core Computation in  bipartite graph", \emph{The VLDB Journal \textbf{(VLDBJ)}}, 29(5): 1075-1099, 2020.
+* Boge Liu, **Long Yuan\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Jingren Zhou, "Efficient ($\alpha$, $\beta$)-Core Computation in  bipartite graph", *The VLDB Journal* **(VLDBJ)**, 29(5): 1075-1099, 2020.
 
 * Zi Chen, **Long Yuan\***, Xuemin Lin, Lu Qin, Jianye Yang, "Efficient Maximal Balanced Clique Enumeration in Signed Networks", *The Web Conference* **(WWW)**, 339-349, 2020.
 
-* Boge Liu, **Long Yuan\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Jingren Zhou, "Efficient $(\alpha, \beta)$-Core Computation: an Index-based Approach", *The Web Conference* **(WWW)**, 1130-1141, 2019.
+* Boge Liu, **Long Yuan\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Jingren Zhou, "Efficient ($\alpha$, $\beta$)-Core Computation: an Index-based Approach", *The Web Conference* **(WWW)**, 1130-1141, 2019.
 
 *  **Long Yuan**, Lu Qin, Wenjie Zhang, Lijun Chang, Jianye Yang, "Index-based Densest Clique Percolation Community Search in Networks(Extended abstract)",TKDE Poster, *IEEE International Conference on Data Engineering* **(ICDE)**, 2161-2162, 2019.
 
@@ -86,4 +86,29 @@ Teaching
 
 
 Selected Awards
-======
+==
+ - DASFAA Best Student Paper, 2023
+ - ACM SIGMOD China Rising Star Award (Three Winners a Year), 2022
+ - The Web Conference (WWW) PC members Honorable mentions, 2022
+ - The 1st place of "Human-Computer Interaction through Natural Language Understanding" track of CCF-BDCI, 2021
+ - CCF-BDCI Excellent Instructor Award, 2021
+
+
+Our Students
+==
+
+- Co-supervised by me:
+  - Zhu Qin, since PhD study at ECNU, now an Engineer at ByteDance
+  - [Boge Liu](https://www.linkedin.com/in/boge-liu-785267181/?originalSubdomain=au), since PhD study at UNSW, now an Engineer @ Enmotech, Australia
+  - Dian Ouyang, since PhD study at UTS, now an Associate Professor at GZU
+  - Junhua Zhang, since PhD stude at UTS, now a PostDoc at UNSW
+  - Lingkai Meng, since Master study at GZU, now pursue PhD at Shanghai Jiaotong University
+  - Xudong Wu, since Master study at ECNU, now an Engineer at Xiaohongshu
+    
+- Supervised by me:
+  - Zhengqing Fan, since Master study at NJUST, now an Engineer at Xiaomi
+  - Zeyu Zhou, since master study at NJUST, now an Engineer at ICBC
+  - Zongyu Xu, since master study at NJUST, now an Engineer at NJCB
+  - Zepeng Huang, since master study at NJUST, now an Engineer at ZTE
+  - Xingyu Ji, since master study at NJUST, now an Engineer at Xiaomi
+  - Jiang Ge, since master study at NJUST, now an Engineer at ZTE
