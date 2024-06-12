@@ -74,6 +74,23 @@ Selected Publications (* indicates corresponding author)
 *  **Long Yuan**, Lu Qin, Xuemin Lin, Lijun Chang, Wenjie Zhang, "Diversified Top-k clique search",  *IEEE International Conference on Data Engineering* **(ICDE)**, 387-398, 2015.
 
 
+Academic Services
+==
+
+- Organizing Committee
+  - [LSGDA 2024](https://lsgda.github.io/2024/), in conjunction with VLDB 2024
+  - [KGMA 2024](https://kgma-conf.github.io/2024/), in conjunction with APWeb 2024
+  - [CHDM 2023](https://www.cloud-conf.net/icdm2023/workshop.html), in conjunction with ICDM 2023
+
+- Program Committee
+  - AAAI 2025
+  - TheWebConf 2024, NeurIPS 2024, AAAI 2024, CIKM 2024, DASFAA 2024, ADMA 2024, APWeb 2024,  
+  - VLDB 2023, TheWebConf 2023, NeurIPS 2023, AAAI 2023, CIKM 2023, DASFAA 2023, WSDM 2023
+  - VLDB 2022, TheWebConf 2022, CIKM 2022, DASFAA 2022
+
+- Editorial Member
+  - Computer Engineering (Young Editorial Board Member)
+
 Teaching
 ==
 
@@ -99,7 +116,7 @@ Our Students
 
 - Co-supervised by me:
   - Zhu Qin, since PhD study at ECNU, now an Engineer at ByteDance
-  - [Boge Liu](https://www.linkedin.com/in/boge-liu-785267181/?originalSubdomain=au), since PhD study at UNSW, now an Engineer @ Enmotech, Australia
+  - [Boge Liu](https://www.linkedin.com/in/boge-liu-785267181/?originalSubdomain=au), since PhD study at UNSW, now an Engineer at Enmotech, Australia
   - Dian Ouyang, since PhD study at UTS, now an Associate Professor at GZU
   - Junhua Zhang, since PhD stude at UTS, now a PostDoc at UNSW
   - Lingkai Meng, since Master study at GZU, now pursue PhD at Shanghai Jiaotong University
