@@ -13,8 +13,10 @@ Long Yuan is currently a Professor at the school of Computer Science and Enginee
 Long's research interests lie in intelligent big data analytics, especially for the graph/network data.
 
 
-Selected Publications (* indicates corresponding author)
+Selected Publications
 ======
+**\* indicates I am the corresponding author.**
+
 * **Long Yuan**, Xia Li, Zi Chen, Xuemin Lin, Xiang Zhao, Wenjie Zhang, “I/O Efficient Label-Constrained Reachability Queries in Large Graphs”, *International Conference on Very Large Data Bases* **(VLDB)**, 2024, in press.
   
 * **Long Yuan**, Kongzhang Hao, Xuemin Lin, Wenjie Zhang, "Multiple Hop-Constrained s-t Simple Path Enumeration Queries Optimization in Large Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2557-2569, 2024.
