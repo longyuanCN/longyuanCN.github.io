@@ -1,13 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: /#publications/
+    url: /#publications/ 
 
-  - title: "Academic Service"
-    url: /#talks/    
+ - title: "Academic Service"
+    url: /#service/   
 
   - title: "Teaching"
-    url: /#teaching/    
+    url: /#teaching/  
+
+  - title: "Recent Awards"
+    url: /#awards/
     
   - title: "Students"
     url: /#students/
