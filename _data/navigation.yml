@@ -6,13 +6,13 @@ main:
  - title: "Academic Services"
     url: /#service/   
 
-  - title: "Teaching"
+ - title: "Teaching"
     url: /#teaching/  
 
-  - title: "Recent Awards"
+ - title: "Recent Awards"
     url: /#awards/
     
-  - title: "Students"
+ - title: "Students"
     url: /#students/
         
 #  - title: "Blog Posts"
