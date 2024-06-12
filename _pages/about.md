@@ -51,11 +51,11 @@ Selected Publications (* indicates corresponding author)
 
 * Dian Ouyang, **Long Yuan\***, Lu Qin, Lijun Chang, Ying Zhang, Xuemin Lin, "Efficient Shortest Path Index Maintenance on Dynamic Road Networks with Theoretical Guarantees", *International Conference on Very Large Data Bases* **(VLDB)**, 13(5): 602-615, 2020.
 
-* Boge Liu, **Long Yuan\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Jingren Zhou, "Efficient ($\alpha$, $\beta$)-Core Computation in  bipartite graph", *The VLDB Journal* **(VLDBJ)**, 29(5): 1075-1099, 2020.
+* Boge Liu, **Long Yuan\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Jingren Zhou, "Efficient (α, β)-Core Computation in  bipartite graph", *The VLDB Journal* **(VLDBJ)**, 29(5): 1075-1099, 2020.
 
 * Zi Chen, **Long Yuan\***, Xuemin Lin, Lu Qin, Jianye Yang, "Efficient Maximal Balanced Clique Enumeration in Signed Networks", *The Web Conference* **(WWW)**, 339-349, 2020.
 
-* Boge Liu, **Long Yuan\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Jingren Zhou, "Efficient ($\alpha$, $\beta$)-Core Computation: an Index-based Approach", *The Web Conference* **(WWW)**, 1130-1141, 2019.
+* Boge Liu, **Long Yuan\***, Xuemin Lin, Lu Qin, Wenjie Zhang, Jingren Zhou, "Efficient (α, β)-Core Computation: an Index-based Approach", *The Web Conference* **(WWW)**, 1130-1141, 2019.
 
 *  **Long Yuan**, Lu Qin, Wenjie Zhang, Lijun Chang, Jianye Yang, "Index-based Densest Clique Percolation Community Search in Networks(Extended abstract)",TKDE Poster, *IEEE International Conference on Data Engineering* **(ICDE)**, 2161-2162, 2019.
 
