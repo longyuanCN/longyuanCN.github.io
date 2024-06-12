@@ -102,7 +102,7 @@ Teaching
 
 
 
-Selected Awards
+Recent Awards
 ==
  - DASFAA Best Student Paper, 2023
  - ACM SIGMOD China Rising Star Award (Three Winners a Year), 2022
