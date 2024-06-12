@@ -4,16 +4,16 @@ main:
     url: /#publications
 
   - title: "Academic Services"
-    url: /#publications
+    url: /#academic-services
 
   - title: "Teaching"
     url: /#teaching  
   
   - title: "Recent Awards"
-    url: /#publications
+    url: /#recent-awards
     
   - title: "Students"
-    url: /#publications
+    url: /#students
     
 #  - title: "CV"
 #    url: /cv/
