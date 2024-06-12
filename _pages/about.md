@@ -111,7 +111,7 @@ Recent Awards
  - CCF-BDCI Excellent Instructor Award, 2021
 
 
-Our Students
+Students
 ==
 
 - Co-supervised by me:
