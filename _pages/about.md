@@ -12,6 +12,8 @@ Long Yuan is currently a Professor at the school of Computer Science and Enginee
 
 Long's research interests lie in intelligent big data analytics, especially for the graph/network data.
 
+**Postgraduate Positions Available**: I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. You can send an email to me with your CV.
+
 
 Selected Publications
 ======
