@@ -133,3 +133,4 @@ Students
   - Zepeng Huang, since master study at NJUST, now an Engineer at ZTE
   - Xingyu Ji, since master study at NJUST, now an Engineer at Xiaomi
   - Jiang Ge, since master study at NJUST, now an Engineer at ZTE
+  - Yihao Zhang, since master study at NJUST, now an Engineer at China Unicom
