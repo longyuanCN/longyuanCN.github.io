@@ -27,6 +27,8 @@ Selected Publications
 
 * Shunyang Li, Kai Wang, Xuemin Lin, Wenjie Zhang, Yizhang He, **Long Yuan**, "Querying Historical Cohesive Subgraphs over Temporal Bipartite Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2578-2590, 2024.
 
+* Yuwen Qian, Guodong Huang, Chuan Ma, Ming Ding, **Long Yuan**, Zi Chen, Kai Wang, ”Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments”, *IEEE Transactions on Information Forensics and Security* **(TIFS)**, 2024, in press
+
 * Zi Chen, **Long Yuan**, Li Han, Zhengping Qian, "Higher-Order Truss Decomposition in Graphs (Extended abstract)", *IEEE International Conference on Data Engineering* **(ICDE)**, 5695-5696, 2024.
 
 * Junhua Zhang, **Long Yuan\***, Wentao Li, Lu Qin, Ying Zhang, Wenjie Zhang "Label-Constrained Shortest Path Query Processing on Road Networks", *The VLDB Journal* **(VLDBJ)**, 33:569–593, 2023.
