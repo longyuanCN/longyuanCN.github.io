@@ -91,7 +91,7 @@ Academic Services
   - [CHDM 2023](https://www.cloud-conf.net/icdm2023/workshop.html), in conjunction with ICDM 2023
 
 - Program Committee
-  - AAAI 2025
+  - ICDE 2025 Area Chair, AAAI 2025
   - TheWebConf 2024, NeurIPS 2024, AAAI 2024, CIKM 2024, DASFAA 2024, ADMA 2024, APWeb 2024,  
   - VLDB 2023, TheWebConf 2023, NeurIPS 2023, AAAI 2023, CIKM 2023, DASFAA 2023, WSDM 2023
   - VLDB 2022, TheWebConf 2022, CIKM 2022, DASFAA 2022
