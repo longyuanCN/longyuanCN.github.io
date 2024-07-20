@@ -21,7 +21,7 @@ Selected Publications
 
 * **Long Yuan**, Xia Li, Zi Chen, Xuemin Lin, Xiang Zhao, Wenjie Zhang, “I/O Efficient Label-Constrained Reachability Queries in Large Graphs”, *International Conference on Very Large Data Bases* **(VLDB)**, 2024, in press.
 
-* Yiqi Wang, **Long Yuan\***, Wenjie Zhang, Xuemin Lin, Zi Chen, Qing Liu, “Simpler is More: Efficient Top-K Nearest Neighbors Search on Large Road Networks”, *International Conference on Very Large Data Bases* **(VLDB)**, 2024, in press.
+<!--* Yiqi Wang, **Long Yuan\***, Wenjie Zhang, Xuemin Lin, Zi Chen, Qing Liu, “Simpler is More: Efficient Top-K Nearest Neighbors Search on Large Road Networks”, *International Conference on Very Large Data Bases* **(VLDB)**, 2024, in press.-->
   
 * **Long Yuan**, Kongzhang Hao, Xuemin Lin, Wenjie Zhang, "Multiple Hop-Constrained s-t Simple Path Enumeration Queries Optimization in Large Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2557-2569, 2024.
 
