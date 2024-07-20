@@ -25,6 +25,8 @@ Selected Publications
   
 * **Long Yuan**, Kongzhang Hao, Xuemin Lin, Wenjie Zhang, "Multiple Hop-Constrained s-t Simple Path Enumeration Queries Optimization in Large Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2557-2569, 2024.
 
+* Zi Chen, Xingyu Ji, **Long Yuan\***, Xuemin Lin, Wenjie Zhang, Shan Huang, "Parallel Contraction Hierarchies Construction on Road Networks", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2023, in press.
+
 * Yuwen Qian, Guodong Huang, Chuan Ma, Ming Ding, **Long Yuan\***, Zi Chen, Kai Wang, ”Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments”, *IEEE Transactions on Information Forensics and Security* **(TIFS)**, 2024, in press
 
 * Shunyang Li, Kai Wang, Xuemin Lin, Wenjie Zhang, Yizhang He, **Long Yuan**, "Querying Historical Cohesive Subgraphs over Temporal Bipartite Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2578-2590, 2024.
