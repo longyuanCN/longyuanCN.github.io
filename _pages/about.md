@@ -27,7 +27,7 @@ Selected Publications
 
 * Zi Chen, Xingyu Ji, **Long Yuan\***, Xuemin Lin, Wenjie Zhang, Shan Huang, "Parallel Contraction Hierarchies Construction on Road Networks", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2024, in press.
 
-* Lingkai Meng, Yu Shao, **Long Yuan\***, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou, "[A Survey of Distributed Graph Algorithms on Massive Graphs"](https://arxiv.org/abs/2404.06037) (<span style="color:red"> A comprehensive survey on distributed graph algorithms</span>),  *ACM Computing Surveys* **(CSUR)**, 2024, in press
+* Lingkai Meng, Yu Shao, **Long Yuan\***, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou, "[A Survey of Distributed Graph Algorithms on Massive Graphs"](https://arxiv.org/abs/2404.06037) (A comprehensive survey on distributed graph algorithms),  *ACM Computing Surveys* **(CSUR)**, 2024, in press
 
 * Yuwen Qian, Guodong Huang, Chuan Ma, Ming Ding, **Long Yuan\***, Zi Chen, Kai Wang, ”Enhancing Resilience in Website Fingerprinting: Novel Adversary Strategies for Noisy Traffic Environments”, *IEEE Transactions on Information Forensics and Security* **(TIFS)**, 2024, in press
 
