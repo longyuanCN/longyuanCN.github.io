@@ -129,9 +129,9 @@ Students
 - Co-supervised by me:
   - Zhu Qin, since PhD study at ECNU, now an Engineer at ByteDance
   - [Boge Liu](https://www.linkedin.com/in/boge-liu-785267181/?originalSubdomain=au), since PhD study at UNSW, now an Engineer at Enmotech, Australia
-  - Dian Ouyang, since PhD study at UTS, now an Associate Professor at GZU
+  - Dian Ouyang, since PhD study at UTS, now an Associate Professor at GZHU
   - Junhua Zhang, since PhD stude at UTS, now a PostDoc at UNSW
-  - Lingkai Meng, since Master study at GZU, now pursue PhD at SJTU
+  - Lingkai Meng, since Master study at GZHU, now pursue PhD at SJTU
   - Xudong Wu, since Master study at ECNU, now an Engineer at Xiaohongshu
     
 - Supervised by me:
