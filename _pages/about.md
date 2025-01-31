@@ -19,6 +19,8 @@ Selected Publications
 ======
 **\* indicates I am the corresponding author.**
 
+* Lingkai Meng, Yu Shao, **Long Yuan\***, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou, "Revisiting Graph Analytics Benchmarks", *International Conference on Management of Data* **(SIGMOD)**, 2025, in press
+
 * **Long Yuan**, Xiaotong Sun, Zi Chen, Peng Cheng,  Longbin Lai, Xuemin Lin, "HINSCAN: Efficient Structural Graph Clustering over  Heterogeneous Information Networks", *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
 
 * Yiqi Wang, **Long Yuan\***, Wenjie Zhang, Xuemin Lin, Zi Chen, Qing Liu, “Simpler is More: Efficient Top-K Nearest Neighbors Search on Large Road Networks”, *International Conference on Very Large Data Bases* **(VLDB)**, 2025, in press.
