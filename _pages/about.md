@@ -23,6 +23,9 @@ Selected Publications
 
 * **Long Yuan**, Xiaotong Sun, Zi Chen, Peng Cheng,  Longbin Lai, Xuemin Lin, "HINSCAN: Efficient Structural Graph Clustering over  Heterogeneous Information Networks", *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
 
+*  Yu Shao, Peng Cheng, Longbin Lai, **Long Yuan**, Wangze Ni, Xuemin Lin, "Most Probable Maximum Weighted Butterfly Search". *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
+
+
 * Yiqi Wang, **Long Yuan\***, Wenjie Zhang, Xuemin Lin, Zi Chen, Qing Liu, “Simpler is More: Efficient Top-K Nearest Neighbors Search on Large Road Networks”, *International Conference on Very Large Data Bases* **(VLDB)**, 2025, in press.
 
 * **Long Yuan**, Xia Li, Zi Chen, Xuemin Lin, Xiang Zhao, Wenjie Zhang, “I/O Efficient Label-Constrained Reachability Queries in Large Graphs”, *International Conference on Very Large Data Bases* **(VLDB)**, 2024, in press.
