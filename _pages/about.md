@@ -108,7 +108,9 @@ Academic Services
   - VLDB 2022, TheWebConf 2022, CIKM 2022, DASFAA 2022
 
 - Editorial Member
+  - Nature Scientific Reports (JCR Q1, CAS Q2)
   - Computer Engineering (Young Editorial Board Member)
+    
 
 Teaching
 ==
