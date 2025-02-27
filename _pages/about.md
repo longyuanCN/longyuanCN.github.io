@@ -30,7 +30,7 @@ Selected Publications
 
 * **Long Yuan**, Xia Li, Zi Chen, Xuemin Lin, Xiang Zhao, Wenjie Zhang, “I/O Efficient Label-Constrained Reachability Queries in Large Graphs”, *International Conference on Very Large Data Bases* **(VLDB)**, 2024, in press.
   
-* **Long Yuan**, Kongzhang Hao, Xuemin Lin, Wenjie Zhang, "Multiple Hop-Constrained s-t Simple Path Enumeration Queries Optimization in Large Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2557-2569, 2024.
+* **Long Yuan**, Kongzhang Hao, Xuemin Lin, Wenjie Zhang, "Batch Hop-constrained ST Simple Path Query Processing in Large Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2557-2569, 2024.
 
 * Zi Chen, Xingyu Ji, **Long Yuan\***, Xuemin Lin, Wenjie Zhang, Shan Huang, "Parallel Contraction Hierarchies Construction on Road Networks", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2024, in press.
 
