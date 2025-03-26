@@ -23,6 +23,10 @@ Selected Publications
 
 * **Long Yuan**, Xiaotong Sun, Zi Chen, Peng Cheng,  Longbin Lai, Xuemin Lin, "HINSCAN: Efficient Structural Graph Clustering over  Heterogeneous Information Networks", *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
 
+* **Long Yuan**, Junyue Xu, Zi Chen, Chuan Ma,  Jianqiu Xu, Lu Qin, "Efficient Maximum Balanced k-biplex Search over Bipartite Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
+
+*  Ruicheng Zhu, Xintong Wang, Kai Wang, Fan Zhang, Zhengping Qian, **Long Yuan**, "Efficient k-Truss Breaking and Minimization". *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
+
 *  Yu Shao, Peng Cheng, Longbin Lai, **Long Yuan**, Wangze Ni, Xuemin Lin, "Most Probable Maximum Weighted Butterfly Search". *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
 
 
