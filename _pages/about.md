@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Long Yuan is currently a Professor at the school of Computer Science and Engineering, Wuhan University of Technology (WHU). Before joining WHU, he was a Professor at Nanjing University of Science and Technology (NJUST), China, and a Research Associate in the [Data and Knowledge Research Group](https://unswdb.github.io/) at the University of New South Wales (UNSW), Australia, from 2017 to 2025. In 2017, he obtained his PhD in Computer Science and Engineering from UNSW, under the supervision of [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/), with [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin) as co-supervisor. Prior to that, he got his master's/bachelor’s degree from Sichuan University in 2010/2013, both in Computer Science. 
+Long Yuan is currently a Professor at the school of Computer Science and Artificial  Intelligence, Wuhan University of Technology (WHU). Before joining WHU, he was a Professor at Nanjing University of Science and Technology (NJUST), China, and a Research Associate in the [Data and Knowledge Research Group](https://unswdb.github.io/) at the University of New South Wales (UNSW), Australia, from 2017 to 2025. In 2017, he obtained his PhD in Computer Science and Engineering from UNSW, under the supervision of [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/), with [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin) as co-supervisor. Prior to that, he got his master's/bachelor’s degree from Sichuan University in 2010/2013, both in Computer Science. 
 
 Long's research interests lie in intelligent big data analytics, especially for the graph/network data.
 
