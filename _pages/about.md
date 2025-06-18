@@ -21,6 +21,8 @@ Selected Publications
 
 * Lingkai Meng, Yu Shao, **Long Yuan\***, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou, "Revisiting Graph Analytics Benchmarks", *International Conference on Management of Data* **(SIGMOD)**, 2025, in press
 
+* **Long Yuan**，Zeyu Zhou, Zi Chen, Xuemin Lin, Xiang Zhao, Fan Zhang, "GPUSCAN++: Efficient Structural Graph Clustering on GPUs", *IEEE Transactions on Parallel and Distributed Systems* **(TPDS)**, 2025, in press.
+
 * **Long Yuan**, Xiaotong Sun, Zi Chen, Peng Cheng,  Longbin Lai, Xuemin Lin, "HINSCAN: Efficient Structural Graph Clustering over  Heterogeneous Information Networks", *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
 
 * **Long Yuan**, Junyue Xu, Zi Chen, Chuan Ma,  Jianqiu Xu, Lu Qin, "Efficient Maximum Balanced k-biplex Search over Bipartite Graphs", *IEEE International Conference on Data Engineering* **(ICDE)**, 2025, in press.
