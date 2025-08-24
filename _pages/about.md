@@ -19,6 +19,9 @@ Selected Publications
 ======
 **\* indicates I am the corresponding author.**
 
+
+* Lingkai Meng, **Long Yuan\***, Xuemin Lin, Wenjie Zhang, Ying Zhang, "Triangle Counting in Hypergraph Streams: A Complete and Practical Approach", *International Conference on Management of Data* **(SIGMOD)**, 2026, in press
+
 * Lingkai Meng, Yu Shao, **Long Yuan\***, Longbin Lai, Peng Cheng, Xue Li, Wenyuan Yu, Wenjie Zhang, Xuemin Lin, Jingren Zhou, "Revisiting Graph Analytics Benchmarks", *International Conference on Management of Data* **(SIGMOD)**, 2025, in press
 
 * **Long Yuan**, Zeyu Zhou, Zi Chen, Xuemin Lin, Xiang Zhao, Fan Zhang, "GPUSCAN++: Efficient Structural Graph Clustering on GPUs", *IEEE Transactions on Parallel and Distributed Systems* **(TPDS)**, 2025, in press.
