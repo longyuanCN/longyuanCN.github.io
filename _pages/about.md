@@ -160,3 +160,6 @@ Students
   - Xingyu Ji, since master study at NJUST, now an Engineer at Xiaomi
   - Jiang Ge, since master study at NJUST, now an Engineer at ZTE
   - Yihao Zhang, since master study at NJUST, now an Engineer at China Unicom
+  - Haofei Sui, since master study at NJUST, now an Engineer at Huawei
+  - Licheng Zhuo, since master study at NJUST, now an Engineer at Byte Dance
+  - Zhengyu Hua, since master study at NJUST, now an Engineer at China Telecom
