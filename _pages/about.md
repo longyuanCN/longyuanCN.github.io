@@ -148,7 +148,7 @@ Students
   - Zhu Qin, since PhD study at ECNU, now an Engineer at ByteDance
   - [Boge Liu](https://www.linkedin.com/in/boge-liu-785267181/?originalSubdomain=au), since PhD study at UNSW, now an Engineer at Enmotech, Australia
   - Dian Ouyang, since PhD study at UTS, now an Associate Professor at GZHU
-  - Junhua Zhang, since PhD stude at UTS, now a PostDoc at UNSW
+  - Junhua Zhang, since PhD stude at UTS, now a Professor at NEU
   - Lingkai Meng, since Master study at GZHU, now pursue PhD at SJTU
   - Xudong Wu, since Master study at ECNU, now an Engineer at Xiaohongshu
     
@@ -161,5 +161,5 @@ Students
   - Jiang Ge, since master study at NJUST, now an Engineer at ZTE
   - Yihao Zhang, since master study at NJUST, now an Engineer at China Unicom
   - Haofei Sui, since master study at NJUST, now an Engineer at Huawei
-  - Licheng Zhuo, since master study at NJUST, now an Engineer at Byte Dance
+  - Licheng Zhuo, since master study at NJUST, now an Engineer at ByteDance
   - Zhengyu Hua, since master study at NJUST, now an Engineer at China Telecom
