@@ -134,6 +134,7 @@ Teaching
 
 Recent Awards
 ==
+ - Hubei Province Young Top-notch Talent（湖北省青拔）, 2025
  - DASFAA Best Student Paper, 2023
  - ACM SIGMOD China Rising Star Award (Three Winners a Year), 2022
  - The Web Conference (WWW) PC members Honorable mentions, 2022
@@ -151,7 +152,6 @@ Students
   - Junhua Zhang, since PhD stude at UTS, now a Professor at NEU
   - Lingkai Meng, since Master study at GZHU, now pursue PhD at SJTU
   - Xudong Wu, since Master study at ECNU, now an Engineer at Xiaohongshu
-    
   - Zhengqing Fan, since Master study at NJUST, now an Engineer at Xiaomi
   - Zeyu Zhou, since master study at NJUST, now an Engineer at ICBC
   - Zongyu Xu, since master study at NJUST, now an Engineer at NJCB
