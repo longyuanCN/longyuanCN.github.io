@@ -22,6 +22,8 @@ Selected Publications
 
 * Lingkai Meng, **Long Yuan\***, Xuemin Lin, Wenjie Zhang, Ying Zhang, "Triangle Counting in Hypergraph Streams: A Complete and Practical Approach", *International Conference on Management of Data* **(SIGMOD)**, 2026, in press
 
+* **Long Yuan**, Kaiwen Tian, Zi Chen, Bolong Zheng, Chuan Ma, "HiGoE: Hierarchical Graph of Evidence to Enhance Retrieval-Augmented Generation for Long-context Summarization", *The Annual Meeting of the Association for Computational Linguistics* **(ACL)**, 2026, in press
+
 * Chao Ni, Zi Chen, **Long Yuan\***, Bolong Zheng, Lu Qin, "Efficient Meta-path Constrained Reachability Query on Heterogeneous Information Networks", *IEEE International Conference on Data Engineering* **(ICDE)**, 2026, in press
 
 * Lingkai Meng, **Long Yuan\***, Xuemin Lin, Chengjie Li, Kai Wang, Wenjie Zhang, "Counting Butterflies over Streaming Bipartite Graphs with Duplicate Edges", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
