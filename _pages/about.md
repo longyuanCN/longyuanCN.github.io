@@ -173,3 +173,7 @@ Students
   - Haofei Sui, since master study at NJUST, now an Engineer at Huawei
   - Licheng Zhuo, since master study at NJUST, now an Engineer at ByteDance
   - Zhengyu Hua, since master study at NJUST, now an Engineer at China Telecom
+  - Xiaotong Sun, since master study at NJUST, now an Engineer at Baidu 
+  - Junyue Xu, since master study at NJUST, now an Engineer at Meituan 
+  - Jiahao Hua, since master study at NJUST, now an Engineer at China Unicom
+  - Heng Xiao, since master study at NJUST, now an Engineer at JD
