@@ -27,9 +27,14 @@ Selected Publications
 * Chao Ni, Zi Chen, **Long Yuan\***, Bolong Zheng, Lu Qin, "Efficient Meta-path Constrained Reachability Query on Heterogeneous Information Networks", *IEEE International Conference on Data Engineering* **(ICDE)**, 2026, in press
 
 * Lingkai Meng, **Long Yuan\***, Xuemin Lin, Chengjie Li, Kai Wang, Wenjie Zhang, "Counting Butterflies over Streaming Bipartite Graphs with Duplicate Edges", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
+  
+* Lingkai Meng, **Long Yuan\***, Xuemin Lin, Zi Chen, Shiyu Yang, Kai Wang, "DSCAN: Structural Clustering on Directed Graphs", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
 
 * Zi Chen, Haotian Huang, **Long Yuan\***, Jianqiu Xu, Bolong Zheng, Xuemin Lin，“Biclique Percolation Communities Computation on
 Temporal Bipartite Graphs”， *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
+
+
+* Zhenchang Xia, Xusheng Xu, Libing Wu, Bingyi Liu,  **Long Yuan**, Bolong Zheng, "TFT-GCN: A Time-Frequency Based Model for Time Series Anomaly Detection",  *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
 
 * Songyang Wu, Chuan Ma, Ming Ding, **Long Yuan**, Biwen Chen, Yuwen Qian and Tao Xiang, "HiFi-WF: Toward Realistic Website Fingerprinting with Multi-tab and Subpage Recognition", *The Web Conference* **(WWW)**, 2026, in press
 
