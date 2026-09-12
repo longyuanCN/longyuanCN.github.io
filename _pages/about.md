@@ -26,6 +26,8 @@ Selected Publications
 
 * Chao Ni, Zi Chen, **Long Yuan\***, Bolong Zheng, Lu Qin, "Efficient Meta-path Constrained Reachability Query on Heterogeneous Information Networks", *IEEE International Conference on Data Engineering* **(ICDE)**, 2026, in press
 
+* Lingkai Meng, **Long Yuan\***, Xuemin Lin, Wenjie Zhang, Ying Zhang, "Efficient and Complete Triangle Counting in Hypergraph Streams", *ACM Transactions on Database Systems* **(TODS)**, 2026, in press
+
 * Lingkai Meng, **Long Yuan\***, Xuemin Lin, Chengjie Li, Kai Wang, Wenjie Zhang, "Counting Butterflies over Streaming Bipartite Graphs with Duplicate Edges", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
   
 * Lingkai Meng, **Long Yuan\***, Xuemin Lin, Zi Chen, Shiyu Yang, Kai Wang, "DSCAN: Structural Clustering on Directed Graphs", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
