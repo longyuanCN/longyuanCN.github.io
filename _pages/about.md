@@ -28,6 +28,8 @@ Selected Publications
 
 * Lingkai Meng, **Long Yuan\***, Xuemin Lin, Wenjie Zhang, Ying Zhang, "Efficient and Complete Triangle Counting in Hypergraph Streams", *ACM Transactions on Database Systems* **(TODS)**, 2026, in press
 
+* **Long Yuan**, Congyi Wang, Zi Chen, Wenjie Zhang, Xuemin Lin, "Effective and Efficient DomiRank in Large Graphs", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press
+
 * Lingkai Meng, **Long Yuan\***, Xuemin Lin, Chengjie Li, Kai Wang, Wenjie Zhang, "Counting Butterflies over Streaming Bipartite Graphs with Duplicate Edges", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
   
 * Lingkai Meng, **Long Yuan\***, Xuemin Lin, Zi Chen, Shiyu Yang, Kai Wang, "DSCAN: Structural Clustering on Directed Graphs", *IEEE Transactions on Knowledge and Data Engineering* **(TKDE)**, 2026, in press.
