@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Long Yuan is currently a Professor at the school of Computer Science and Artificial  Intelligence, Wuhan University of Technology (WHUT). Before joining WHUT, he was a Professor at Nanjing University of Science and Technology (NJUST), China, and a Research Associate in the [Data and Knowledge Research Group](https://unswdb.github.io/) at the University of New South Wales (UNSW), Australia, from 2017 to 2025. In 2017, he obtained his PhD in Computer Science and Engineering from UNSW, under the supervision of [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/), with [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin) as co-supervisor. Prior to that, he got his master's/bachelor’s degree from Sichuan University in 2010/2013, both in Computer Science. 
+Long Yuan is currently a Professor at the school of Computer Science and Artificial  Intelligence, Wuhan University of Technology (WHUT). In 2017, he obtained his PhD in Computer Science and Engineering from UNSW, under the supervision of [Prof. Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/), with [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin) as co-supervisor. Prior to that, he got his master's/bachelor’s degree from Sichuan University in 2010/2013, both in Computer Science. 
 
 
 <!--Long's research interests lie in intelligent big data analytics, especially for the graph/network data.-->
@@ -146,24 +146,24 @@ Academic Services
 Teaching
 ==
 
-- Introduction to Computer Science @ NJUST 2023s2, 2024s2
-- Advanced Database System @ NJUST 2019s2, 2020s2, 2021s2, 2022s2, 2023s2, 2024s2
-- Data Mining @ NJUST 2022s2
-- Teaching Assistant of COMP3311 Database Systems @ UNSW 2014s1, 2015s1, 2016s1.
-- Teaching Assistant of COMP9311 Database Systems @ UNSW 2014s1, 2015s2, 2016s1.
+- Introduction to Computer Science 2023s2, 2024s2
+- Advanced Database System 2019s2, 2020s2, 2021s2, 2022s2, 2023s2, 2024s2
+- Data Mining  2022s2
+- Teaching Assistant of COMP3311 Database Systems  2014s1, 2015s1, 2016s1.
+- Teaching Assistant of COMP9311 Database Systems  2014s1, 2015s2, 2016s1.
 
 
 
 Recent Awards
 ==
- - Hubei Province Young Top-notch Talent（湖北省青拔）, 2025
+<!-- - Hubei Province Young Top-notch Talent（湖北省青拔）, 2025-->
  - DASFAA Best Student Paper, 2023
  - ACM SIGMOD China Rising Star Award (Three Winners a Year), 2022
  - The Web Conference (WWW) PC members Honorable mentions, 2022
  - The 1st place of "Human-Computer Interaction through Natural Language Understanding" track of CCF-BDCI, 2021
  - CCF-BDCI Excellent Instructor Award, 2021
 
-
+<!--
 Students
 ==
 
@@ -187,4 +187,4 @@ Students
   - Xiaotong Sun, since master study at NJUST, now an Engineer at Baidu 
   - Junyue Xu, since master study at NJUST, now an Engineer at Meituan 
   - Jiahao Hua, since master study at NJUST, now an Engineer at China Unicom
-  - Heng Xiao, since master study at NJUST, now an Engineer at JD
+  - Heng Xiao, since master study at NJUST, now an Engineer at JD -->
